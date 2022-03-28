@@ -5,7 +5,7 @@
   table, thead, tbody, tfoot, tr, th, td { border: 1px solid black; border-collapse:collapse; }
   .subject1{ background-color:lightgray; } .subject2 {background-color:#FAF4C0;}
   </style>  <!-- border-collapse:collapse 단선으로,반대는 separate -->
-  <title>HTML5시간표</title></head>
+  <title>20191340 이영로 시간표</title></head>
   <body>
   <table>
   <caption>&lt;표1&gt;시간표</caption>
